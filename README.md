@@ -1,2 +1,2 @@
-# JarCollection
- Stores all Java Jar API files
+# JavaLib
+ Jar API Collection
